@@ -1,0 +1,21 @@
+{
+  "name": "vuepro",
+  "version": "1.0.0",
+  "description": "this is vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development"
+  },
+  "author": "yuanguangxue",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "vue": "^2.6.10",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
